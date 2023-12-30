@@ -3,13 +3,28 @@ import requests
 import json
 
 
+
+def connexion(r:None, name:str="", password:str=""):
+    base_url = "https://zestedesavoir.com/membres/connexion/?next=/"
+    if not (name and password ):
+        name="Blockchain"
+        password = '15037282d'
+    try:
+        r.url(base_url)
+        r.type("//*[@id='id_username']", name)
+        r.type("//*[@id='id_password']", password)
+        r.click("//*[@id='content']/section/div[1]/form/div[4]/button")
+    except Exception as e:
+        print(f"An error occured{e}")
+
 def to_scrape(url:str="")->BeautifulSoup:
     """ return a soup to parse
     """
     if not url:
         return "Not url was given"
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, "html.parser")
+    response = requests.get(url)
+    print(dir(response))
+    soup = BeautifulSoup(response.content, "html.parser")
     return soup
 
 def _scrape_article_author(element:BeautifulSoup=to_scrape())->list:
@@ -22,6 +37,7 @@ def _scrape_article_author(element:BeautifulSoup=to_scrape())->list:
 def scrape_article_info( element:BeautifulSoup, output_file:str="articles.json", action=False, rpa_object=None)->list:
     """"
     Scraping Data from The search result: element
+    action: 
     """
     articles = []
     try:
@@ -50,9 +66,9 @@ def scrape_article_info( element:BeautifulSoup, output_file:str="articles.json",
             # add article data to articles
             articles.append(article_data)
 
-            # write data into the json
-            with open(output_file, 'w', encoding='utf-8') as json_file:
-                json.dump(articles, json_file, ensure_ascii=False, indent=2)
+        # write data into the json
+        with open(output_file, 'w', encoding='utf-8') as json_file:
+            json.dump(articles, json_file, ensure_ascii=False, indent=2)
     except Exception as e:
         print(f"Une erreur s'est produite lors de la création du fichier JSON : {str(e)}")
     return articles

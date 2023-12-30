@@ -1,228 +1,155 @@
 [
   {
-    "href": "https://zestedesavoir.com/tutoriels/646/apprenez-a-programmer-en-java/",
-    "titre": "Apprenez à programmer en Java",
-    "img": "/media/galleries/660/be45d8f0-53c6-4e84-ac40-b1dd81e783c5.png.96x96_q95_crop.png",
-    "desc": "Apprenez à programmer en Java",
-    "date": "25 juillet 2014 14:31",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/646/apprenez-a-programmer-en-java/']",
-    "mots_cles": [
-      "java"
-    ],
-    "authors": [
-      "Auteur externe"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/591/creez-votre-application-web-avec-java-ee/",
-    "titre": "Créez votre application web avec Java EE",
-    "img": "/media/galleries/248/5fc3e2f4-99e9-44d1-bf1b-023098acdbb2.png.96x96_q95_crop.png",
-    "desc": "Apprenez pas à pas, en suivant les bonnes pratiques.",
-    "date": "22 décembre 2014 20:42",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/591/creez-votre-application-web-avec-java-ee/']",
-    "mots_cles": [
-      "java",
-      "java ee"
-    ],
-    "authors": [
-      "Auteur externe"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/624/creez-des-applications-pour-android/",
-    "titre": "Créez des applications pour Android",
-    "img": "/media/galleries/514/e3b83f9b-d403-418d-b5d1-3542b142075d.png.96x96_q95_crop.png",
-    "desc": "",
-    "date": "2 octobre 2014 11:15",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/624/creez-des-applications-pour-android/']",
-    "mots_cles": [
-      "java",
-      "android"
-    ],
-    "authors": [
-      "Apollidore"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/839/developper-et-publier-une-app-android-material-design/",
-    "titre": "Développer et publier une app Android Material Design",
-    "img": "/media/galleries/2052/8e611800-a9e2-4e7b-baf5-ad194759ef17.png.96x96_q95_crop.png",
-    "desc": "",
-    "date": "7 novembre 2016 09:59",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/839/developper-et-publier-une-app-android-material-design/']",
-    "mots_cles": [
-      "java",
-      "android"
-    ],
-    "authors": [
-      "Andr0"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/309/introduction-a-linjection-de-dependances-en-java/",
-    "titre": "Introduction à l'injection de dépendances en Java",
-    "img": "/media/galleries/783/c22baac4-575c-4a30-a7b9-cc8ce408374b.jpg.96x96_q95_crop.jpg",
-    "desc": "des interfaces.\nLes prérequis pour ce tutoriel sont :\n\nla programmation orientée objet ;\ndes connaissances basiques en java ; … . Dans le cas ci-présent, le tutoriel aborde l’injection de dépendances dans le langage java et par ses bibliothèques. Il est possible d’adapter un poil …  ne seront pas abordées puisque les bibliothèques Java ne supportent pas tous les types d’injection. Si vous êtes intéressés par une injection spécifique …  sur le langage. Les exemples seront illustrés par le java, étant donné son aspect pédagogique et qu’il s’agit d’un des langages les plus connus …  la puissance de Java, notamment sur les annotations et les génériques. Ceci pour faire face à une alternative vieillissante",
-    "date": "9 janvier 2015 14:45",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/309/introduction-a-linjection-de-dependances-en-java/']",
-    "mots_cles": [
-      "java"
-    ],
-    "authors": [
-      "Andr0"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/274/les-tests-unitaires-en-java/",
-    "titre": "Les tests unitaires en Java",
-    "img": "/media/galleries/502/dd04598b-b050-45ec-bc00-9007f41bd18d.png.96x96_q95_crop.jpg",
-    "desc": ",\nCeci est mon premier tutoriel, tous les commentaires sont les bienvenus. Je vais vous parler des tests unitaires en Java. Nous allons voir d'abord un peu …  en java depuis un moment déjà, je suis sûr qu'il vous est déjà arrivé d'avoir un bug dans votre programme et de ne pas savoir d'où il venait … , le framework de test unitaire de Java. Bien que JUnit soit intégré à la plupart des IDE, il ne fait pas partie de la librairie standard de Java. En fait, JUnit …  static java.lang …  java.lang.Math",
-    "date": "14 juillet 2014 03:02",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/274/les-tests-unitaires-en-java/']",
-    "mots_cles": [
-      "java",
-      "génie logiciel"
-    ],
-    "authors": [
-      "Auteur externe"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/tutoriels/706/les-espaces-de-couleurs-rvb-et-tsv/",
-    "titre": "Les espaces de couleurs RVB et TSV",
-    "img": "/media/galleries/1123/6d269046-c436-4456-b8ce-a474a0996265.png.96x96_q95_crop.jpg",
-    "desc": "Introduction au traitement d'images par ordinateur",
-    "date": "8 décembre 2014 19:40",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/706/les-espaces-de-couleurs-rvb-et-tsv/']",
-    "mots_cles": [
-      "java",
-      "graphisme 2d"
-    ],
-    "authors": [
-      "tit_toinou"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/forums/sujet/6218/usage-des-generiques/",
-    "titre": "Usage des génériques",
-    "img": "",
-    "desc": "",
-    "date": "2 juin 2016 10:51",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/6218/usage-des-generiques/']",
+    "href": "https://zestedesavoir.com/tutoriels/2238/introduction-aux-systemes-distribues/",
+    "titre": "Introduction aux systèmes distribués",
+    "img": "/media/galleries/4644/dd67e479-9840-47fd-a925-6bdcbf728d29.png.96x96_q95_crop.png",
+    "desc": "Implémentons une salade de fruits répartie",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/tutoriels/2238/introduction-aux-systemes-distribues/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/6977/melangeur-de-caracteres/",
-    "titre": "Mélangeur de caractères",
-    "img": "",
-    "desc": "",
-    "date": "23 septembre 2016 22:38",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/6977/melangeur-de-caracteres/']",
+    "href": "https://zestedesavoir.com/tutoriels/4053/leaflet-utilisation-avancee/",
+    "titre": "Leaflet - Utilisation avancée",
+    "img": "/media/galleries/16186/1a1ebd6b-b3b5-4278-995c-b76bb2e1c34d.png.96x96_q95_crop.jpg",
+    "desc": "Découvrez comment créer interfaces utilisateurs, les marqueurs personnalisés et pleins d'autres choses sur vos cartes Leaflet",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/tutoriels/4053/leaflet-utilisation-avancee/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/7581/production-java/",
-    "titre": "Production java ?",
-    "img": "",
+    "href": "https://zestedesavoir.com/tutoriels/3771/methodes-et-parametres-en-ruby/",
+    "titre": "Méthodes et paramètres en Ruby",
+    "img": "/media/galleries/13390/cee1c9cf-35c7-4baf-92f7-d4ba25ba893a.png.96x96_q95_crop.png",
     "desc": "",
-    "date": "17 décembre 2016 22:32",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/7581/production-java/']",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/tutoriels/3771/methodes-et-parametres-en-ruby/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/12497/eviter-les-erreurs-en-rouge-dans-la-console/",
-    "titre": "éviter les erreurs en rouge dans la console",
-    "img": "",
-    "desc": "",
-    "date": "14 mai 2019 13:18",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/12497/eviter-les-erreurs-en-rouge-dans-la-console/']",
+    "href": "https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/",
+    "titre": "Un zeste de Python",
+    "img": "/media/galleries/5033/d1decad0-f454-471a-9cec-41b69a66cc9e.png.96x96_q95_crop.png",
+    "desc": "Débuter avec Python",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/tutoriels/2514/un-zeste-de-python/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/15371/review-code-java/",
-    "titre": "Review code Java",
-    "img": "",
-    "desc": "",
-    "date": "24 mai 2021 21:37",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/15371/review-code-java/']",
+    "href": "https://zestedesavoir.com/articles/4582/une-presentation-de-la-canne-de-combat/",
+    "titre": "Une présentation de la canne de combat",
+    "img": "/media/galleries/22588/f0369553-4861-4711-ab6a-32aa2308f2b3.png.96x96_q95_crop.png",
+    "desc": "La canne de combat française, quèsaco ?",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/articles/4582/une-presentation-de-la-canne-de-combat/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/tutoriels/272/introduction-aux-tests-android-avec-espresso/",
-    "titre": "Introduction aux tests Android avec Espresso",
-    "img": "/media/galleries/496/512ddfb5-7d25-4d95-8c3a-7f9faef95c43.jpeg.96x96_q95_crop.jpg",
-    "desc": "sont des appels à des méthodes statiques, Java permet de rajouter à sa liste d’import les méthodes statiques et ne plus devoir renseigner leurs provenances",
-    "date": "18 septembre 2014 08:43",
-    "xpath_tonext": "//h3/a[@href='/tutoriels/272/introduction-aux-tests-android-avec-espresso/']",
-    "mots_cles": [
-      "java",
-      "android"
-    ],
-    "authors": [
-      "Andr0"
-    ]
-  },
-  {
-    "href": "https://zestedesavoir.com/forums/sujet/6284/une-histoire-dadditions/",
-    "titre": "Une histoire d'additions !",
-    "img": "",
-    "desc": "",
-    "date": "10 juin 2016 12:56",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/6284/une-histoire-dadditions/']",
+    "href": "https://zestedesavoir.com/articles/4517/comprendre-le-forcage-radiatif/",
+    "titre": "Comprendre le forçage radiatif",
+    "img": "/media/galleries/21789/76fcde43-38aa-4e26-8205-4990b91362f3.svg.96x96_q95_crop.svg",
+    "desc": "Une clé essentielle du dérèglement climatique",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/articles/4517/comprendre-le-forcage-radiatif/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/6700/votre-avis-sur-mon-cercle-chromatique/",
-    "titre": "Votre avis sur mon cercle chromatique",
-    "img": "",
-    "desc": "",
-    "date": "10 août 2016 20:10",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/6700/votre-avis-sur-mon-cercle-chromatique/']",
+    "href": "https://zestedesavoir.com/articles/4267/lindustrie-electronique-en-coree-du-sud/",
+    "titre": "L'industrie électronique en Corée du Sud",
+    "img": "/media/galleries/18532/ddb7b9d3-2b7f-48f3-97c5-b479f841c9cd.png.96x96_q95_crop.jpg",
+    "desc": "Partie 1 : 1948 - 1976",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/articles/4267/lindustrie-electronique-en-coree-du-sud/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/6912/utilite-singleton/",
-    "titre": "Utilité singleton",
-    "img": "",
-    "desc": "",
-    "date": "12 septembre 2016 20:02",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/6912/utilite-singleton/']",
+    "href": "https://zestedesavoir.com/billets/4478/ameliorer-son-score-a-welcome-to-your-perfect-home/",
+    "titre": "Améliorer son score à Welcome to Your Perfect Home",
+    "img": "/media/galleries/20909/b0e82e26-b960-43c0-b624-4150fa86c6b5.jpg.96x96_q95_crop.jpg",
+    "desc": "Quelques clés pour avoir toutes les cartes en main",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/billets/4478/ameliorer-son-score-a-welcome-to-your-perfect-home/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/7513/gerer-les-noms-de-fichier/",
-    "titre": "Gérer les noms de fichier",
-    "img": "",
-    "desc": "",
-    "date": "7 décembre 2016 11:44",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/7513/gerer-les-noms-de-fichier/']",
+    "href": "https://zestedesavoir.com/billets/4577/sous-titrer-automatiquement-un-enregistrement/",
+    "titre": "Sous-titrer automatiquement un enregistrement",
+    "img": "/media/galleries/22569/d6a4110a-29ab-47ea-9999-bb579bcefa13.png.96x96_q95_crop.png",
+    "desc": "Avec OpenAI Whisper",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/billets/4577/sous-titrer-automatiquement-un-enregistrement/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/2473/dereferencement-dun-objet/",
-    "titre": "Déréférencement d'un objet",
-    "img": "",
-    "desc": "Objet commun à plusieurs classes, mais suppression que dans une des classes",
-    "date": "17 février 2015 15:48",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/2473/dereferencement-dun-objet/']",
+    "href": "https://zestedesavoir.com/billets/4576/retrospective-sur-la-mise-en-page-en-console/",
+    "titre": "rétrospective sur la mise en page en console",
+    "img": "/media/galleries/22568/513aa053-f482-412e-849a-a9bcab7a27a6.jpg.96x96_q95_crop.jpg",
+    "desc": "des utilitaires Unix méconnus ou oubliés",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/billets/4576/retrospective-sur-la-mise-en-page-en-console/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/10874/iterer-sur-un-attribut-herite/",
-    "titre": "Itérer sur un attribut hérité",
-    "img": "",
-    "desc": "",
-    "date": "20 juin 2018 16:43",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/10874/iterer-sur-un-attribut-herite/']",
+    "href": "https://zestedesavoir.com/billets/4575/un-generateur-de-snowflake-id-lock-free/",
+    "titre": "Un générateur de Snowflake ID lock-free",
+    "img": "/media/galleries/22558/3455fa0d-bc4f-4c7a-adbf-da99611f0721.png.96x96_q95_crop.png",
+    "desc": "De la concurrence sans mutex. Ne refaites pas ça chez vous !",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/billets/4575/un-generateur-de-snowflake-id-lock-free/']",
     "mots_cles": []
   },
   {
-    "href": "https://zestedesavoir.com/forums/sujet/10311/exemple-de-projet-java/",
-    "titre": "Exemple de projet Java",
+    "href": "https://zestedesavoir.com/billets/4573/vpat-wcag-les-acronymes-qui-rendent-votre-site-accessible/",
+    "titre": "VPAT/WCAG les acronymes qui rendent votre site accessible",
     "img": "",
-    "desc": "",
-    "date": "20 février 2018 16:08",
-    "xpath_tonext": "//h3/a[@href='/forums/sujet/10311/exemple-de-projet-java/']",
+    "desc": "Pour un internet pour tous et sans pépin",
+    "date": "",
+    "xpath_tonext": "//h3/a[@href='/billets/4573/vpat-wcag-les-acronymes-qui-rendent-votre-site-accessible/']",
+    "mots_cles": []
+  },
+  {
+    "href": "https://zestedesavoir.com/forums/sujet/17284/google-sheets-tracer-un-graphique-avec-une-serie-par-jour/",
+    "titre": "Google Sheets : tracer un graphique avec une série par jour",
+    "img": "",
+    "desc": "Multimédia et Jeux vidéo,\n                par\n\n\n\n    Vayel\n\n\n                –\n\n                \nVendredi 29 décembre 2023 à 12h38\n29/12/23 à 12h38",
+    "date": "2023-12-29T15:12:14",
+    "xpath_tonext": "//h3/a[@href='/forums/sujet/17284/google-sheets-tracer-un-graphique-avec-une-serie-par-jour/']",
+    "mots_cles": []
+  },
+  {
+    "href": "https://zestedesavoir.com/forums/sujet/17275/denombrement/",
+    "titre": "dénombrement",
+    "img": "",
+    "desc": "Sciences,\n                par\n\n\n\n    antoine555\n\n\n                –\n\n                \nJeudi 28 décembre 2023 à 01h24\n28/12/23 à 01h24",
+    "date": "2023-12-28T14:17:48",
+    "xpath_tonext": "//h3/a[@href='/forums/sujet/17275/denombrement/']",
+    "mots_cles": []
+  },
+  {
+    "href": "https://zestedesavoir.com/forums/sujet/17274/virtual-box-et-kali-linux/",
+    "titre": "Virtual box et Kali linux",
+    "img": "",
+    "desc": "Systèmes et Matériels,\n                par\n\n\n\n    maestro1303\n\n\n                –\n\n                \nMercredi 27 décembre 2023 à 19h12\n27/12/23 à 19h12",
+    "date": "2023-12-28T13:13:35",
+    "xpath_tonext": "//h3/a[@href='/forums/sujet/17274/virtual-box-et-kali-linux/']",
+    "mots_cles": []
+  },
+  {
+    "href": "https://zestedesavoir.com/forums/sujet/17273/suggestion-cree-un-sujet-plus-facilement/",
+    "titre": "Suggestion - Crée un sujet plus facilement",
+    "img": "",
+    "desc": "Bugs et Suggestions,\n                par\n\n\n\n    pyoroalb\n\n\n                –\n\n                \nMercredi 27 décembre 2023 à 11h51\n27/12/23 à 11h51",
+    "date": "2023-12-27T18:46:24",
+    "xpath_tonext": "//h3/a[@href='/forums/sujet/17273/suggestion-cree-un-sujet-plus-facilement/']",
+    "mots_cles": []
+  },
+  {
+    "href": "https://zestedesavoir.com/forums/sujet/17271/piste-realiste-de-gagner-plus-dargent-en-travaillant-en-plus-du-salariat/",
+    "titre": "Piste réaliste de gagner plus d'argent en travaillant, en plus du salariat",
+    "img": "",
+    "desc": "Le bar à smoothies,\n                par\n\n\n\n    Herbe\n\n\n                –\n\n                \nMardi 26 décembre 2023 à 15h53\n26/12/23 à 15h53",
+    "date": "2023-12-29T22:43:43",
+    "xpath_tonext": "//h3/a[@href='/forums/sujet/17271/piste-realiste-de-gagner-plus-dargent-en-travaillant-en-plus-du-salariat/']",
     "mots_cles": []
   }
 ]
